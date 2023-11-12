@@ -59,7 +59,7 @@ public class OrderingSystem {
             else if(choose==2){
             System.out.println("Order quantity: ");
             quantity = input.nextInt();
-            total = total + (quantity*250);
+            total = total + (quantity*200);
             
             System.out.println("Do you want to order anything else: ");
             System.out.println("Press Y for Yes and N for No");
@@ -88,7 +88,7 @@ public class OrderingSystem {
             else if(choose==3){
             System.out.println("Order quantity: ");
             quantity = input.nextInt();
-            total = total + (quantity*250);
+            total = total + (quantity*60);
             
             System.out.println("Do you want to order anything else: ");
             System.out.println("Press Y for Yes and N for No");
@@ -121,7 +121,7 @@ public class OrderingSystem {
             else if(choose==4){
             System.out.println("Order quantity: ");
             quantity = input.nextInt();
-            total = total + (quantity*250);
+            total = total + (quantity*30);
             
             System.out.println("Do you want to order anything else: ");
             System.out.println("Press Y for Yes and N for No");
@@ -154,7 +154,7 @@ public class OrderingSystem {
             else if(choose==5){
             System.out.println("Order quantity: ");
             quantity = input.nextInt();
-            total = total + (quantity*250);
+            total = total + (quantity*20);
             
             System.out.println("Do you want to order anything else: ");
             System.out.println("Press Y for Yes and N for No");
